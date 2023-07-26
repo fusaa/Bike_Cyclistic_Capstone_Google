@@ -6,9 +6,10 @@ This project involves an in-depth analysis of bike-sharing data in Chicago to un
 
 Casual riders use the service occasionally, often on an as-needed basis. At the same time, annual members are regular users committed to a yearly subscription.
 
+Click [here](https://github.com/fusaa/Bike_Sharing_Analysis_Converting_Casual_Riders_to_Members/blob/main/bike.ipynb) for the Jupyter Notebook, or [here](https://github.com/fusaa/Bike_Sharing_Analysis_Converting_Casual_Riders_to_Members/blob/main/Cyclistic.ppsx) for the PowerPoint presentation.
 ## Data
 
-The dataset used in this project contains bike ride data from the first quarter of 2020, including ride start and end times, start and end stations, ride duration, type of bike used, and whether the rider is a casual rider or a member.
+The dataset used in this project contains bike ride data from the last 12 months(until May 2023), including ride start and end times, start and end stations, ride duration, type of bike used, and whether the rider is a casual rider or a member.
 
 ## Analysis
 
